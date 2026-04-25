@@ -1,5 +1,6 @@
 # CSC120_Laboratory-Work-4-Activity-Improving-CNN-Performance-Using-Regularization
-# Google Collab Link: https://colab.research.google.com/drive/1gYt3QRySZb9R6XrNn6nOONgaBxODLrt0?usp=sharing
+Google Collab Link: https://colab.research.google.com/drive/1gYt3QRySZb9R6XrNn6nOONgaBxODLrt0?usp=sharing
+___________
 
 # GUIDE QUESTIONS: Reflection & Analysis
 
