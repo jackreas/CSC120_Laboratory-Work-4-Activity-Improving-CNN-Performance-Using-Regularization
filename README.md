@@ -2,7 +2,7 @@
 Google Collab Link: https://colab.research.google.com/drive/1gYt3QRySZb9R6XrNn6nOONgaBxODLrt0?usp=sharing
 ___________
 
-# GUIDE QUESTIONS: Reflection & Analysis
+## GUIDE QUESTIONS: Reflection & Analysis
 
 ### A. Model Evaluation Analysis
 1. **Weakest-performing classes**: Based on the final confusion matrix, **Hemlock Tree** and **Pine Tree** were the weakest, often showing high confusion with other species. **Oak Tree** also struggled with a precision of 0.48.
